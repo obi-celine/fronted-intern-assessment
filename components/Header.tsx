@@ -36,7 +36,7 @@ export default function Header() {
   return (
     <header className="w-full bg-white">
       {/* Top row: logo + account + take assessment */}
-      <div className="flex items-center justify-between px-8 py-4">
+      <div className="flex items-center justify-between px-8 h-35">
         <Image
           src="/images/Logo-bg.png"
           alt="Tobams Group logo"

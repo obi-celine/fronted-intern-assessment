@@ -10,7 +10,7 @@ export default function Navbar() {
           <Image src="/logo.svg" alt="Luthman Group Logo" width={140} height={40} priority />
         </Link>
         <div className="flex items-center space-x-3">
-          <button className="text-xs sm:text-sm font-medium border border-purple-800 text-purple-800 px-3 py-1.5 rounded-md hover:bg-purple-50 transition-colors">
+          <button className="text-xs sm:text-sm font-medium border  text-purple-800 px-3 py-1.5 rounded-md hover:bg-purple-50 transition-colors">
             Account ▾
           </button>
           <button className="text-xs sm:text-sm font-medium bg-red-500 text-white px-3 py-1.5 rounded-md hover:bg-red-600 transition-colors">
